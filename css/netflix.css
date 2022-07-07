@@ -10,7 +10,7 @@
 }
 
 .grande{
-    background: linear-gradient(rgba(0, 0, 0, 0.788) 0%, rgba(0, 0, 0, 0.555) 100%), url("../imagenes/blue.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.788) 0%, rgba(0, 0, 0, 0.555) 100%), url("./imagenes/blue.png");
     background-position-x: 70%;
     background-position-y: 60%;
     background-repeat: no-repeat;
@@ -22,7 +22,7 @@
     
 }
 
-.frairecursos{    background: linear-gradient(rgba(248, 247, 247, 0.637) 0%, rgba(160, 160, 160, 0.034) 100%), url("../imagenes/wander-fleur-8ZoE26ywFFM-unsplash.jpg");
+.frairecursos{    background: linear-gradient(rgba(248, 247, 247, 0.637) 0%, rgba(160, 160, 160, 0.034) 100%), url("./imagenes/wander-fleur-8ZoE26ywFFM-unsplash.jpg");
     background-position-x: 70%;
     background-position-y: 60%;
     background-repeat: no-repeat;
