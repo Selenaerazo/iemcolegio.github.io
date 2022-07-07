@@ -109,7 +109,7 @@ header nav a.activo {
 	font-size: 16px;
 	min-height: 40.62em;
 	color: rgb(255, 255, 255);
-	background: linear-gradient(rgba(0, 0, 0, 0.719) 0%, rgba(0,0,0,.50) 100%), url("../imagenes/portada2.jpeg");
+	background: linear-gradient(rgba(0, 0, 0, 0.719) 0%, rgba(0,0,0,.50) 100%), url("./imagenes/portada2.jpeg");
     background-position-y: 60%;
 	background-size: cover;
 	margin-bottom: -1em;
@@ -207,7 +207,7 @@ background: yellow;
 	font-size: 14px;
 	min-height: 40.62em;
 	color: rgb(255, 255, 255);
-	background: linear-gradient(rgba(0, 0, 0, 0.719) 0%, rgba(0,0,0,.50) 100%), url("../imagenes/aaron-burden-CKlHKtCJZKk-unsplash.jpg");
+	background: linear-gradient(rgba(0, 0, 0, 0.719) 0%, rgba(0,0,0,.50) 100%), url("./imagenes/aaron-burden-CKlHKtCJZKk-unsplash.jpg");
     background-position-y: 60%;
 	background-size: cover;
 	margin-bottom: -1em;
@@ -1011,7 +1011,7 @@ i .fas .fa-phone .mr-3{
 }
 .estudios5{
     margin-top: 150px;
-    background: linear-gradient(rgba(0, 0, 0, 0.788) 0%, rgba(0, 0, 0, 0.555) 100%), url("../imagenes/blue.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.788) 0%, rgba(0, 0, 0, 0.555) 100%), url("./imagenes/blue.png");
  padding-top: 60px;
  padding-bottom: 30px;
 }
@@ -1152,7 +1152,7 @@ margin-bottom: 10px;
 
   /* footer*/
   .footer {
-    background: linear-gradient(rgba(0, 0, 0, 0.788) 0%, rgba(0, 0, 0, 0.555) 100%), url("../imagenes/blue.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.788) 0%, rgba(0, 0, 0, 0.555) 100%), url("./imagenes/blue.png");
     background-size: cover;
     
 }
