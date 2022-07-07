@@ -6,7 +6,7 @@
 
   
 .wrap{
-  background: linear-gradient(rgba(0, 0, 0, 0.788) 0%, rgba(0, 0, 0, 0.555) 100%), url("../imagenes/blue.png");
+  background: linear-gradient(rgba(0, 0, 0, 0.788) 0%, rgba(0, 0, 0, 0.555) 100%), url("./imagenes/blue.png");
   margin-top: -100px;
 }
   
